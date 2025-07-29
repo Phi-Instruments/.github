@@ -31,7 +31,14 @@ A purpose-built programming language for **defining synthesis logic** and **inte
 - Expressive enough for live patching and composition
 - Deterministic, efficient, and small-footprint
 - Fully open-source
+- 
+### 🧪 Workbench
+A lightweight desktop application for **testing and developing Slang programs** on your PC.
 
+- Run and preview Slang patches in real time
+- Simple UI for writing and debugging audio code
+- Built to match the behavior of Slang on hardware
+- Ideal for prototyping without needing TalkShow connected
 ---
 
 ## 🌀 Philosophy
